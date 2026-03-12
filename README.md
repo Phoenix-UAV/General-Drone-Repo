@@ -1,3 +1,3 @@
 # General-Drone-Repo
 
-Our General Repo for drone code and testing. 
+Our general code repository for drone code and testing. 
