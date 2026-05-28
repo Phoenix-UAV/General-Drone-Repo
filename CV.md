@@ -84,3 +84,9 @@ source cv_env/bin/activate
 ``` Bash
 deactivate
 ```  
+
+# Pipline Plan  
+  
+The diagram rely's on the data already being gathered.
+
+![Pipeline](CV_Pipeline_Diagram.png)
