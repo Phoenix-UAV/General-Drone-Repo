@@ -1,0 +1,8 @@
+path: /path/to/my_dataset  # Replace
+train: train/images        # Replace
+val: val/images            # Replace
+
+# Classes
+names:
+  0: thing
+  1: thing2
